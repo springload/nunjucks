@@ -1,8 +1,8 @@
 {
-  "name": "nunjucks",
+  "name": "@springload/nunjucks",
   "description": "A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)",
-  "version": "3.0.2-dev.1",
-  "author": "James Long <longster@gmail.com>",
+  "version": "3.0.2",
+  "author": "Springload",
   "dependencies": {
     "a-sync-waterfall": "^1.0.0",
     "asap": "^2.0.3",
