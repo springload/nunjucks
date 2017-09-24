@@ -1,4 +1,13 @@
-# Nunjucks
+# `@springload/nunjucks`
+
+A [Nunjucks](https://mozilla.github.io/nunjucks/) fork with a tiny bit better support for Jinja2 template syntax: [#958](https://github.com/mozilla/nunjucks/pull/958)
+
+```sh
+# Installation:
+npm install --save --save-exact @springload/nunjucks
+```
+
+-----
 
 [Nunjucks](https://mozilla.github.io/nunjucks/) is a full featured
 templating engine for javascript. It is heavily inspired by
